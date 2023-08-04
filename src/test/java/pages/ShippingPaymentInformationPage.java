@@ -1,4 +1,4 @@
-package pages.MainPage;
+package pages;
 
 public class ShippingPaymentInformationPage {
 }

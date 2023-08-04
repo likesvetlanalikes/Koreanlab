@@ -1,8 +1,7 @@
-package pages.MainPage;
+package pages;
 
 import io.qameta.allure.Step;
 import org.openqa.selenium.WebDriver;
-import pages.BasePage;
 import org.openqa.selenium.By;
 
 
